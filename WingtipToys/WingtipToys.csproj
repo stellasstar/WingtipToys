@@ -230,6 +230,11 @@
     <Content Include="Catalog\Images\Thumbs\Thumbs.db" />
     <Content Include="Checkout\Web.config" />
     <Content Include="Admin\Web.config" />
+    <Content Include="..\ReadMe.md">
+      <Link>ReadMe.md</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <BrowseToURL>~/ReadMe.md</BrowseToURL>
+    </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="ProductDetails.aspx" />
     <Content Include="ProductList.aspx" />
