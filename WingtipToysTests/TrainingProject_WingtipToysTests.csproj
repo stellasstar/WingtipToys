@@ -66,9 +66,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WingtipToys\WingtipToys.csproj">
+    <ProjectReference Include="..\WingtipToys\TrainingProject_WingtipToys.csproj">
       <Project>{3F8458A7-02DD-4B8C-B4E0-F6132D51ADDD}</Project>
-      <Name>WingtipToys</Name>
+      <Name>TrainingProject_WingtipToys</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

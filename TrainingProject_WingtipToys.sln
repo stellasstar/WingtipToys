@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WingtipToys", "WingtipToys\WingtipToys.csproj", "{3F8458A7-02DD-4B8C-B4E0-F6132D51ADDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingProject_WingtipToys", "WingtipToys\TrainingProject_WingtipToys.csproj", "{3F8458A7-02DD-4B8C-B4E0-F6132D51ADDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WingtipToysTests", "WingtipToysTests\WingtipToysTests.csproj", "{FFFBDDCC-0330-46D9-8CD6-0E6C171AC923}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingProject_WingtipToysTests", "WingtipToysTests\TrainingProject_WingtipToysTests.csproj", "{FFFBDDCC-0330-46D9-8CD6-0E6C171AC923}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
